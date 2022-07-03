@@ -11,6 +11,7 @@
 		94979D3828722B74002B2CAF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94979D3728722B74002B2CAF /* ContentView.swift */; };
 		94979D3A28722B74002B2CAF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94979D3928722B74002B2CAF /* Assets.xcassets */; };
 		94979D3D28722B75002B2CAF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94979D3C28722B75002B2CAF /* Preview Assets.xcassets */; };
+		94979D4628722D4E002B2CAF /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94979D4528722D4E002B2CAF /* TestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		94979D3728722B74002B2CAF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		94979D3928722B74002B2CAF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94979D3C28722B75002B2CAF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		94979D4528722D4E002B2CAF /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				94979D3528722B74002B2CAF /* WoodScreenApp.swift */,
 				94979D3728722B74002B2CAF /* ContentView.swift */,
+				94979D4528722D4E002B2CAF /* TestView.swift */,
 				94979D3928722B74002B2CAF /* Assets.xcassets */,
 				94979D3B28722B75002B2CAF /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94979D4628722D4E002B2CAF /* TestView.swift in Sources */,
 				94979D3828722B74002B2CAF /* ContentView.swift in Sources */,
 				94979D3628722B74002B2CAF /* WoodScreenApp.swift in Sources */,
 			);
